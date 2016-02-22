@@ -11,5 +11,4 @@ public class Snake extends Reptile {
     public void makeSound() {
         System.out.println("Ssssss");
     }
-
 }
